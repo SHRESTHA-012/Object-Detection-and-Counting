@@ -97,6 +97,8 @@ Press **ESC** to exit the video window.
  
 
 ---
+## Note
+images folder contains the preview image of the output to be displayed in the readme file.
 
 
 
