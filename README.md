@@ -7,7 +7,7 @@ This project demonstrates real-time **Object detection, tracking, and counting**
 ---
 
 ## Problem Tackled
-This assists in crwod management, retail store analytics and surveillance systems.
+This assists in crowd management, retail store analytics and surveillance systems.
 
 ## Introduction
 Tracking and counting Object in video streams is a crucial task in computer vision. This project leverages **YOLOv8 for object detection** and the **Supervision library** for line-based counting to build a robust, real-time tracking and counting pipeline.
