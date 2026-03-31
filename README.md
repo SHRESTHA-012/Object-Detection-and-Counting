@@ -46,7 +46,7 @@ Ensure Python (>= 3.8) is installed on your system.
 1. Clone the repository:
    ```bash
    git clone https://github.com/SHRESTHA-012/Object-Detection-and-Counting.git
-   cd 
+   cd Object-Detection-and-Counting
    ```
 2. Create and activate a virtual environment:
    ```bash
