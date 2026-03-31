@@ -94,10 +94,7 @@ Press **ESC** to exit the video window.
 ## Results
 - **Accurate Tracking**: Object crossing the line are counted in both directions.
 - **In/Out Metrics**: Displayed directly on the video feed.
-- **Applications**:
-  - Crowd Management  
-  - Retail Store Analytics  
-  - Surveillance Systems  
+ 
 
 ---
 
