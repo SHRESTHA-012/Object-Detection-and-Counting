@@ -5,7 +5,7 @@ from ultralytics import YOLO
 # Load YOLOv8 model
 model = YOLO("yolov8s.pt")  # or yolov8n.pt for faster speed
 
-VIDEO_PATH = "highway_car.mp4"
+VIDEO_PATH = "highway_traffic1.mp4"
 
 # Get video size so line is always visible
 cap = cv2.VideoCapture(VIDEO_PATH)
