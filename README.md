@@ -23,7 +23,7 @@ Tracking and counting Object in video streams is a crucial task in computer visi
 ## Video Source
 ### Input
 - The project works with any Object activity video.  
-- Example videos included in repo: `mall_counting.mp4`, `highway_traffic1.mp4`, `highway_traffic2.mp4`
+- Example videos included in repo: `mallCrowd.mp4` (for crwod counting in mall), `highwayTraffic.mp4` (for car counting in traffic)
 
 You can replace it with your own video by updating the `VIDEO_PATH` variable in the code.
 
@@ -57,7 +57,7 @@ Ensure Python (>= 3.8) is installed on your system.
    ```bash
    pip install -r requirements.txt
    ```
-4. Place your input video (e.g., `mall_counting.mp4`) in the project directory if not already available.
+4. Place your input video (e.g., `mallCrowd.mp4`) in the project directory if not already available.
 
 ---
 

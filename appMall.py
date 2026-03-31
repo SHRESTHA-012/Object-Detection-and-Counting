@@ -5,7 +5,7 @@ from ultralytics import YOLO
 # Load YOLOv8 model
 model = YOLO("yolov8s.pt")  # or yolov8n.pt for faster speed
 
-VIDEO_PATH = "mall_counting.mp4"  #  human video file
+VIDEO_PATH = "mallCrowd.mp4"  #  crowd in a mall video file
 
 # Get video size so line is always visible
 cap = cv2.VideoCapture(VIDEO_PATH)
